@@ -1,0 +1,87 @@
+﻿body {
+    background-color: beige;
+}
+
+#menu {
+    padding: 15px;
+    background-color: white;
+}
+
+#title {
+    padding: 15px;
+    background-color: black;
+}
+
+#mainImage {
+    background-image: url('../resources/homeMain.jpg');
+}
+
+.lblExplore {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 90px;
+}
+
+.lblSub {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    font-size: 40px;
+}
+
+#firstBanner {
+    width: 340px;
+    height: 548px;
+    position: absolute;
+    left: 60px;
+    background-color: white;
+}
+
+#secondBanner {
+    width: 340px;
+    height: 548px;
+    float: left;
+    position: absolute;
+    left: 447px;
+    background-color: white;
+}
+
+#thirdBanner {
+    width: 340px;
+    height: 548px;
+    float: left;
+    position: absolute;
+    left: 830px;
+    background-color: white;
+}
+
+#unusalHolidaysTxt {
+    color: darkorange;
+    border-top: 7px solid darkorange;
+}
+
+#visitTxt {
+    color: darkorange;
+    border-top: 7px solid darkorange;
+}
+
+#bigCatTxt {
+    color: darkorange;
+    border-top: 7px solid darkorange;
+}
+
+#moreBtn1 {
+    background-color: darkorange;
+    color: white;
+}
+
+#moreBtn2 {
+    background-color: darkorange;
+    color: white;
+}
+
+#moreBtn3 {
+    background-color: darkorange;
+    color: white;
+}

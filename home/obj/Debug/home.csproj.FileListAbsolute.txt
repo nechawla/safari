@@ -1,0 +1,120 @@
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\home.dll.config
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\home.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\home.pdb
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\csc.exe
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\csc.exe.config
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\csc.rsp
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\csi.exe
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\csi.exe.config
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\csi.rsp
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.AppContext.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Collections.Immutable.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Console.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Globalization.Calendars.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.IO.Compression.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.IO.FileSystem.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Net.Http.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Net.Sockets.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Reflection.Metadata.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.ValueTuple.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Xml.XPath.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\vbc.exe
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\vbc.exe.config
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\vbc.rsp
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\VBCSCompiler.exe
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\roslyn\VBCSCompiler.exe.config
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Vanier\Sem 5\E-Commerce\home\home\obj\Debug\home.csprojAssemblyReference.cache
+F:\Vanier\Sem 5\E-Commerce\home\home\obj\Debug\home.csproj.CoreCompileInputs.cache
+F:\Vanier\Sem 5\E-Commerce\home\home\obj\Debug\home.csproj.CopyComplete
+F:\Vanier\Sem 5\E-Commerce\home\home\obj\Debug\home.dll
+F:\Vanier\Sem 5\E-Commerce\home\home\obj\Debug\home.pdb
+C:\Users\neelu\Desktop\home\home\bin\home.dll.config
+C:\Users\neelu\Desktop\home\home\bin\home.dll
+C:\Users\neelu\Desktop\home\home\bin\home.pdb
+C:\Users\neelu\Desktop\home\home\bin\roslyn\csc.exe
+C:\Users\neelu\Desktop\home\home\bin\roslyn\csc.exe.config
+C:\Users\neelu\Desktop\home\home\bin\roslyn\csc.rsp
+C:\Users\neelu\Desktop\home\home\bin\roslyn\csi.exe
+C:\Users\neelu\Desktop\home\home\bin\roslyn\csi.exe.config
+C:\Users\neelu\Desktop\home\home\bin\roslyn\csi.rsp
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\neelu\Desktop\home\home\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.AppContext.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Console.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.IO.Compression.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Net.Http.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Net.Sockets.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.ValueTuple.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Xml.XPath.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\neelu\Desktop\home\home\bin\roslyn\vbc.exe
+C:\Users\neelu\Desktop\home\home\bin\roslyn\vbc.exe.config
+C:\Users\neelu\Desktop\home\home\bin\roslyn\vbc.rsp
+C:\Users\neelu\Desktop\home\home\bin\roslyn\VBCSCompiler.exe
+C:\Users\neelu\Desktop\home\home\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\neelu\Desktop\home\home\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\neelu\Desktop\home\home\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\neelu\Desktop\home\home\obj\Debug\home.csprojAssemblyReference.cache
+C:\Users\neelu\Desktop\home\home\obj\Debug\home.csproj.CoreCompileInputs.cache
+C:\Users\neelu\Desktop\home\home\obj\Debug\home.csproj.CopyComplete
+C:\Users\neelu\Desktop\home\home\obj\Debug\home.dll
+C:\Users\neelu\Desktop\home\home\obj\Debug\home.pdb
+C:\Users\neelu\Desktop\home\home\obj\Debug\home.Properties.Resources.resources
+C:\Users\neelu\Desktop\home\home\obj\Debug\home.csproj.GenerateResource.cache
