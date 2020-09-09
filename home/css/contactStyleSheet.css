@@ -1,11 +1,6 @@
 ﻿body {
 }
 
-.divheader {
-    width: 100%;
-    height: 30px;
-    background-color: rgb(0,255,255);
-}
 
 .divcompanyinfo {
     float: left;
@@ -20,19 +15,20 @@
 }
 
 #Intro_Label {
+    margin-top: 60px;
     margin-left: 9px;
-    float: left;
+    font-weight: bold;
 }
 
 #Emailus_label {
     margin-left: 9px;
-    margin-top: 83px;
-    margin-right: 0px;
+    margin-top: 40px;
+   
 }
 
 #txtboxmessage {
     margin-left: 9px;
-    margin-top: 41px;
+    margin-top: 30px;
 }
 
 #txtboxname {
@@ -56,18 +52,26 @@
     margin-left: 9px;
     width: 90px;
     margin-top: 41px;
+    background-color: orangered;
+    color: white;
+    height: 40px;
 }
 
 #btnclear {
     margin-left: 18px;
     width: 90px;
+    background-color: orangered;
+    color: white;
+    height: 40px;
 }
 
 
-
-.divfooter {
-    float: right;
-    width: 100%;
-    height: 20px;
-    background-color: rgb(0,255,255);
+#Address_info,#Phone_label, #Email_label {
+    font-weight: bold;
 }
+
+#Em_label, #In_label {
+    color: orangered;
+}
+
+

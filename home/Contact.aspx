@@ -21,13 +21,19 @@ $(function(){
          <div id="header"></div>
         <br />
             <div class="divcompanyinfo" id="Address_label">
+                 <br />
+                 <br />
+                 <br />
+                 <br />
             <asp:Label ID="Address_info" runat="server" Text="ADDRESS:"></asp:Label>   
+               <br />
                 <br />
                 <asp:Image ID="Address_image" runat="server" Height="29px" ImageUrl="~/resources/address.png" Width="31px" />
                 <asp:Label ID="Add_label" runat="server" Text="138 Atlantis Linkingsport illnois 121 164"></asp:Label>
                 <br />
                 <br />
                 <asp:Label ID="Phone_label" runat="server" Text="PHONES:"></asp:Label>
+                <br />
                 <br />
                 <asp:Image ID="Phone_image" runat="server" Height="24px" ImageUrl="~/resources/phone.png" Width="21px" />
                 <asp:Label ID="Ph_label" runat="server" Text="123 444 234"></asp:Label>
@@ -39,17 +45,24 @@ $(function(){
                 <br />
                 <asp:Label ID="Email_label" runat="server" Text="E-MAIL:"></asp:Label>
                 <br />
+                <br />
                 <asp:Image ID="Email_image" runat="server" Height="27px" ImageUrl="~/resources/email.png" Width="27px" />
                 <asp:Label ID="Em_label" runat="server" Text="safari@gmail.com"></asp:Label>
                 <br />
                 <br />
-                <asp:Label ID="Info_label" runat="server" Text="Download information as : Vcard"></asp:Label>
+                
+                <asp:Label ID="Info_label" runat="server" Text="Download information as : "></asp:Label>
+                 <asp:Label ID="In_label" runat="server" Text="vCard"></asp:Label>
             </div>
             <div class="divcontactform">
-              <asp:Label ID="Intro_Label" runat="server" Text=" MISCELLANEOUS INFORMATION:"></asp:Label>
                 <br />
-                <asp:Label ID="Emailus_label" runat="server" Text="Email Us with any questions or inquiries or use our Contact page." Height="35px" Width="414px"></asp:Label>
-                
+                <br />
+                <br />
+                <br />
+              <asp:Label ID="Intro_Label" runat="server" Text="MISCELLANEOUS INFORMATION:"></asp:Label>
+               <br />
+                <asp:Label ID="Emailus_label" runat="server" Text="Email Us with any questions or inquiries or use our Contact data." Height="35px" Width="600px"></asp:Label>
+     
               <br />
                 <asp:TextBox ID="txtboxname" runat="server"  Height="22px" Width="220px" value="name"></asp:TextBox>
                 <asp:TextBox ID="txtboxemail" runat="server" TextMode="Email" Height="24px" Width="220px" value="email"></asp:TextBox>
