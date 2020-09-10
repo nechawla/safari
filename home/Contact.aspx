@@ -45,7 +45,7 @@ $(function(){
                 <asp:Label ID="Email_label" runat="server" Text="E-MAIL:"></asp:Label>
                 <br />
                 <br />
-                <asp:Image ID="Email_image" runat="server" Height="20px" ImageUrl="~/resources/email.png" Width="20px" />
+                <asp:Image ID="Email_image" runat="server" Height="22px" ImageUrl="~/resources/email.png" Width="18px" />
                 <asp:Label ID="Em_label" runat="server" Text="safari@gmail.com"></asp:Label>
                 <br />
                 <br />
@@ -62,13 +62,17 @@ $(function(){
                <br />
                 <asp:Label ID="Emailus_label" runat="server" Text="Email Us with any questions or inquiries or use our Contact data." Height="35px" Width="600px"></asp:Label>
               <br />
+                 <asp:Label ID="success_message" runat="server" style="color:blue" Text=""></asp:Label>
+                <br />
                 <asp:TextBox ID="txtboxname" runat="server"  Height="22px" Width="220px" value="name"></asp:TextBox>
                 <asp:TextBox ID="txtboxemail" runat="server" TextMode="Email" Height="24px" Width="220px" value="email"></asp:TextBox>
                  <asp:TextBox ID="txtboxphone" runat="server" TextMode="Phone" Height="24px" Width="220px" value="phone"></asp:TextBox>
                 <asp:TextBox ID="txtboxmessage" runat="server" TextMode="MultiLine" Height="122px" Width="705px"></asp:TextBox>
                 <br />
-                <asp:Button ID="btnsend" runat="server" Text="Send" />
+                <asp:Button ID="btnsend" runat="server" Text="Send" OnClick="btnsend_Click" />
                 <asp:Button ID="btnclear" runat="server" Text="Clear" />
+
+               
 
             </div>
      

@@ -159,6 +159,15 @@ namespace home
         protected global::System.Web.UI.WebControls.Label Emailus_label;
 
         /// <summary>
+        /// success_message control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label success_message;
+
+        /// <summary>
         /// txtboxname control.
         /// </summary>
         /// <remarks>
